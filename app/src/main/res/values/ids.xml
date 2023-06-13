@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="perpustakaan_text" type="id" />
+    <item name="lib6_image" type="id" />
+    <item name="lib7_image" type="id" />
+    <item name="lib8_image" type="id" />
+    <item name="lib9_image" type="id" />
+    <item name="lib10_image" type="id" />
+</resources>
